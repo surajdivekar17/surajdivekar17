@@ -1,5 +1,5 @@
 - 👋 Hi, I’m surajdivekar
-- 👀 I’m interested in Programming 
+- 👀 Java.SQL,Salesforce
 - 🌱 I’m currently Pursuing  BE (IT)
 - 💞️ I’m looking to collaborate on placements 
 - 📫 How to reach me @surajdivekar17@gmail.com
